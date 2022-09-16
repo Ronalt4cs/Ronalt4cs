@@ -9,7 +9,7 @@
 
 * Bachelor's student in Computer Science at UFAPE.
 * Full-stack software development student at @Cubos Academy.
-> My languages:
+> My languages e technologies:
 
 ![py](https://img.icons8.com/color/50/python--v1.png)
 ![js](https://img.icons8.com/color/50/javascript--v1.png)
