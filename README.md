@@ -17,5 +17,5 @@
 
 ## 🔗 Links
 
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](<a href="https://www.linkedin.com/in/ronalt-augusto-66202b24b/ target="_blank">)
-[![insta](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white")](<a href="https://www.instagram.com/ronalt_augusto/" target="_blank"/>)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ronalt-augusto-66202b24b/)
+[![insta](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white")](https://www.instagram.com/ronalt_augusto/)
