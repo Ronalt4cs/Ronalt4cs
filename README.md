@@ -3,8 +3,8 @@
 ## About me:
 
 * Bachelor's student in Computer Science at UFAPE.
-* Full-stack software development student at @Cubos Academy.
-* 
+* Fullstack software web developmer
+
 ## My languages e technologies:
 
 ![py](https://img.icons8.com/color/50/python--v1.png)
