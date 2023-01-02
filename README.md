@@ -3,7 +3,7 @@
 ## About me:
 
 * Bachelor of Computer Science from UFAPE, 3/9 perdiod
-* Fullstack software web developmer
+* Fullstack software web developer
 
 ## My languages e technologies:
 
