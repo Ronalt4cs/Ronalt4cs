@@ -5,7 +5,7 @@
 * Bachelor of Computer Science from UFAPE, 3/9 perdiod
 * Fullstack software web developer
 
-## My languages e technologies:
+## Hard skills:
 
 ![js](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
