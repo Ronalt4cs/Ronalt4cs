@@ -2,7 +2,7 @@
 
 ## About me:
 
-* Bachelor of Computer Science from UFAPE, 3/9 perdiod
+* Bachelor of Computer Science from UFAPE, 3/9 period
 * Fullstack software web developer
 
 ## Hard skills:
