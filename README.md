@@ -1,11 +1,13 @@
-# Hi 👋, I'm Ronalt Augusto! 
+# Olá 👋! Meu nome é Ronalt, seja bem vindo ao meu github. 
 
-## About me:
+## 📖Sobre mim:
 
-* Bachelor of Computer Science from UFAPE, 3/9 period
-* Fullstack software web developer
+- Sempre tive afinidade com tecnologia, mas em 2019 conheci a programação através do curso em video
+- Decidi entrar na faculdade de ciências da computação em 2020
+- No final de 2022 comecei o curso da Cubos Academy
+- De 2019 até hoje nunca parei de estudar e melhoras meus conhecimentos até hoje.
 
-## Hard skills:
+## 👨‍💻 Minhas tecnologias:
 
 ![js](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -16,6 +18,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ronalt4cs&layout=compact)](https://github.com/Ronalt4cs/github-readme-stats)
 
-## 🔗 Find me
+## 🔗 Me encontre: 
 
 <a target="_blank" href="https://www.linkedin.com/in/ronalt-augusto-66202b24b/"><img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></img></a>
