@@ -1,12 +1,5 @@
 # Olá 👋! Meu nome é Ronalt, seja bem vindo ao meu github. 
 
-## 📖Sobre mim:
-
-- Sempre tive afinidade com tecnologia, mas em 2019 conheci a programação através do curso em video
-- Decidi entrar na faculdade de ciências da computação em 2020
-- No final de 2022 comecei o curso da Cubos Academy
-- De 2019 até hoje não parei de estudar e por em prática meus conhecimentos
-
 ## 👨‍💻 Minhas tecnologias:
 
 ![js](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
